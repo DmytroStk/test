@@ -1,0 +1,7 @@
+ul,p{
+	margin: 0;
+}
+h2{
+    margin-bottom: 0;
+}
+.container { width: 960px; margin:0 auto; }
